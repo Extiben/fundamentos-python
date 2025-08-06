@@ -1,0 +1,2 @@
+print("Hola, mundo"    # Falta el paréntesis de cierre SyntaxError: unexpected EOF while parsing o SyntaxError: '(' was never closed.
+# El error puede señalar el final de la línea o incluso el final del archivo, porque Python sigue buscando el paréntesis de cierre.

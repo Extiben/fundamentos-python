@@ -1,0 +1,1 @@
+cada script de python se ejecuta desde la terminal

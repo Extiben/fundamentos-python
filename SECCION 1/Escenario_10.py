@@ -1,0 +1,1 @@
+print("        * *  # Falta la comilla de cierre SyntaxError: EOL while scanning string literal. El error suele señalar el final de la línea o el siguiente lugar donde Python esperaba encontrar la comilla de cierre.
